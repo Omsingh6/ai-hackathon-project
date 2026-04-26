@@ -55,12 +55,8 @@ Open `index.html` in any modern browser.
 6. Run the AI Analyzer.
 7. Toggle Dark Mode.
 
-## Demo Video
-
-Add your screen-recording link here before final submission:
-
-`Demo Video: <paste your public video link here>`
-
+## 🎥 Demo Video
+👉 [Watch Demo](https://drive.google.com/file/d/1uOks7dP6efg021aqj1BMRkdFpfmTc7ql/view)
 ## Submission Notes
 
 The hackathon PDF asks for:
